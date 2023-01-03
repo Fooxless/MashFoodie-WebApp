@@ -1,0 +1,33 @@
+.body {
+    text-align: center;
+}
+
+.center {
+    width: 50%;
+    display: relative;
+    margin-left: 40px;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.Map {
+    display: relative;
+    margin-top: -500px;
+    margin-left: 1035px;
+
+}
+
+.Headings {
+    color: white;
+}
+
+.Progressbar {
+    display: absolute;
+    margin-top: -100px;
+    margin-right: 500px;
+}
+
+.resterror {
+    display: absolute;
+    bottom: -500px;
+}
